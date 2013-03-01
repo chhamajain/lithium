@@ -1,7 +1,10 @@
 {
     "author": "Chhama Jain",
-    "components": [
-       ],
+    "components": [{
+        "description": "DBSHJCBDH",
+        "location": "components/testmodal.ftl",
+        "name": "testing1"
+    }],
     "description": "A set of plugin assets created for the Lithium application",
     "name": "Lenovo's components",
     "version": "0.1"
