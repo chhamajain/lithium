@@ -2,24 +2,29 @@
     "author": "Chhama Jain",
     "components": [
         {
+            "author": "chhamajain",
             "description": "DBSHJCBDH",
             "location": "components/testmodal.ftl",
-            "name": "testing1",
-            "author": "chhamajain"
+            "name": "testing1"
         },
         {
+            "author": "chhamajain",
             "description": "give us feedback now!",
-            "location": "components/Feedback_Survey.ftl",
-            "name": "survey for admin feedback",
             "image": "https://raw.github.com/chhamajain/lithium/master/components/Feedback_Survey.png",
-            "author": "chhamajain"
+            "location": "components/Feedback_Survey.ftl",
+            "name": "survey for admin feedback"
         },
         {
+            "author": "chhamajain",
             "description": "sidebar for communities",
-            "location": "components/FBSidebar.ftl",
-            "name": "Facebook sidebar",
             "image": "https://raw.github.com/chhamajain/lithium/master/components/FBSidebar.png",
-            "author": "chhamajain"
+            "location": "components/FBSidebar.ftl",
+            "name": "Facebook sidebar"
+        },
+        {
+            "description": "Social buttons like \"Like\" \"Tweet\" and others",
+            "location": "components/PatrickContest.ftl",
+            "name": "Social Buttons"
         }
     ],
     "description": "A set of plugin assets created for the Lithium application",
