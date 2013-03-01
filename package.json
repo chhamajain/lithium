@@ -25,6 +25,11 @@
             "description": "Social buttons like \"Like\" \"Tweet\" and others",
             "location": "components/PatrickContest.ftl",
             "name": "Social Buttons"
+        },
+        {
+            "description": "Get people to read your blog",
+            "location": "components/lidemo.blog-teaser.ftl",
+            "name": "Blog Teaser"
         }
     ],
     "description": "A set of plugin assets created for the Lithium application",
