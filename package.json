@@ -3,12 +3,6 @@
     "components": [
         {
             "author": "chhamajain",
-            "description": "DBSHJCBDH",
-            "location": "components/testmodal.ftl",
-            "name": "testing1"
-        },
-        {
-            "author": "chhamajain",
             "description": "give us feedback now!",
             "image": "https://raw.github.com/chhamajain/lithium/master/components/Feedback_Survey.png",
             "location": "components/Feedback_Survey.ftl",
