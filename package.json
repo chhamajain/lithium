@@ -4,19 +4,22 @@
         {
             "description": "DBSHJCBDH",
             "location": "components/testmodal.ftl",
-            "name": "testing1"
+            "name": "testing1",
+            "author": "chhamajain"
         },
         {
             "description": "give us feedback now!",
             "location": "components/Feedback_Survey.ftl",
             "name": "survey for admin feedback",
-            "image": "https://raw.github.com/chhamajain/lithium/master/components/Feedback_Survey.png"
+            "image": "https://raw.github.com/chhamajain/lithium/master/components/Feedback_Survey.png",
+            "author": "chhamajain"
         },
         {
             "description": "sidebar for communities",
             "location": "components/FBSidebar.ftl",
             "name": "Facebook sidebar",
-            "image": "https://raw.github.com/chhamajain/lithium/master/components/FBSidebar.png"
+            "image": "https://raw.github.com/chhamajain/lithium/master/components/FBSidebar.png",
+            "author": "chhamajain"
         }
     ],
     "description": "A set of plugin assets created for the Lithium application",
