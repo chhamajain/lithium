@@ -10,6 +10,11 @@
             "description": "give us feedback now!",
             "location": "components/Feedback_Survey.ftl",
             "name": "survey for admin feedback"
+        },
+        {
+            "description": "sidebar for communities",
+            "location": "components/FBSidebar.ftl",
+            "name": "Facebook sidebar"
         }
     ],
     "description": "A set of plugin assets created for the Lithium application",
