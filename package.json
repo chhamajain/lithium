@@ -31,7 +31,7 @@
             "description": "Get people to read your blog",
             "location": "components/lidemo.blog-teaser.ftl",
             "name": "Blog Teaser",
-            "image": "image": "https://raw.github.com/chhamajain/lithium/master/components/lidemo.blog-teaser.png"
+            "image": "https://raw.github.com/chhamajain/lithium/master/components/lidemo.blog-teaser.png"
         }
     ],
     "description": "A set of plugin assets created for the Lithium application",
